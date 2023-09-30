@@ -1,2 +1,1 @@
-# MonoPOS-WIN
-Windows version of MonoPOS
+# MonoPOS-Prod
